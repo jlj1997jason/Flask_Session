@@ -1,5 +1,5 @@
 # Flask_Session
-login with session
+Login with session
 
 6 Ways about Authentication
 JWT Authentication
